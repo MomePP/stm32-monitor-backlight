@@ -1,0 +1,3 @@
+[submodule "lib/FastLED"]
+	path = lib/FastLED
+	url = https://gitlab.com/lilcmu/gogo-6/stm-firmware/FastLED.git
